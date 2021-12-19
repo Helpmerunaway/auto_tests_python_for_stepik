@@ -1,0 +1,5 @@
+.venv
+.idea
+/homework/pytest.sh
+/homework/code/edu.py
+/homework/code/education_try_except.py
